@@ -1,0 +1,12 @@
+import java.util.Vector;
+
+// 
+// Decompiled by Procyon v0.5.36
+// 
+
+class AbstractClass
+{
+    public String Customer;
+    public String Employ;
+    public Vector myClient;
+}

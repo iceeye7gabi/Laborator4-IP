@@ -1,0 +1,16 @@
+import java.util.Vector;
+
+// 
+// Decompiled by Procyon v0.5.36
+// 
+
+public class Courier
+{
+    public String ID;
+    public String City;
+    public Vector myOrder;
+    
+    public String PaymentID() {
+        return null;
+    }
+}

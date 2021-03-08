@@ -1,0 +1,19 @@
+import java.util.Vector;
+
+// 
+// Decompiled by Procyon v0.5.36
+// 
+
+public class Cashier
+{
+    public String ID;
+    public String Product;
+    public Vector myFMarket;
+    
+    public void GiveOrder() {
+    }
+    
+    public boolean Payment() {
+        return false;
+    }
+}

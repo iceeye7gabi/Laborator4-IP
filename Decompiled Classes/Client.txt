@@ -1,0 +1,29 @@
+import java.util.Vector;
+
+// 
+// Decompiled by Procyon v0.5.36
+// 
+
+public class Client
+{
+    public String UserName;
+    public String ID;
+    public String City;
+    public Vector mySite;
+    public Vector myAbstractClass;
+    
+    public void CheckOrder() {
+    }
+    
+    public boolean Payment() {
+        return false;
+    }
+    
+    public boolean ReciveOrder() {
+        return false;
+    }
+    
+    public Integer Stock() {
+        return null;
+    }
+}

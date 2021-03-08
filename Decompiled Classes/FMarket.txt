@@ -1,0 +1,17 @@
+import java.util.Vector;
+
+// 
+// Decompiled by Procyon v0.5.36
+// 
+
+public class FMarket
+{
+    public String ID;
+    public String City;
+    public String Address;
+    public Vector myOrder;
+    public Vector myCashier;
+    
+    public void ReeciveOrder() {
+    }
+}
